@@ -23,6 +23,7 @@ Este repositório contém um problema usado para avaliar as habilidades do candi
 Você deve implementar um aplicativo para armazenar dados de produtos e categorias.
 
 1. Receba um CSV com as categorias e importe para o banco de dados
+
 Dado um arquivo CSV com muitas categorias, você precisa construir um comando para importar os dados para o banco de dados. O arquivo CSV terá o seguinte formato:
   nome
   Móveis
