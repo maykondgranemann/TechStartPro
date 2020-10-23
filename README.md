@@ -25,12 +25,13 @@ Você deve implementar um aplicativo para armazenar dados de produtos e categori
 1. Receba um CSV com as categorias e importe para o banco de dados
 
   Dado um arquivo CSV com muitas categorias, você precisa construir um comando para importar os dados para o banco de dados. O arquivo CSV terá o seguinte formato:
-nome
-* Móveis
-* Decoração
-* Celular 
-* Informática
-* Brinquedos
+
+> nome
+> * Móveis
+> * Decoração
+> * Celular 
+> * Informática
+> * Brinquedos
 
 Cada registro de categoria no banco de dados deve ter os seguintes campos:
 * id (autogerado)
@@ -42,8 +43,8 @@ Você precisa armazenar os dados das categorias para complementar os dados do pr
 2. CRUD (criar, ler, atualizar e excluir) de produtos:
 
 Você precisa implementar estas ações:
-* Crie um produto
-* Leia os dados do produto
+* Criar um produto
+* Ler os dados do produto
 * Atualizar os dados do produto
 * Excluir os dados do produto
 
